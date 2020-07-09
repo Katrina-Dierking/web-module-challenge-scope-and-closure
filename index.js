@@ -104,7 +104,7 @@ Final Score: awayTeam - homeTeam */
 
 
 function scoreboard(/* CODE HERE */) {
-  /* CODE HERE */
+ f{what's going on? }
 }
 
 
